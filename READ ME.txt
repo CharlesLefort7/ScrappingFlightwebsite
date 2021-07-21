@@ -1,0 +1,6 @@
+libariry re, os, 
+
+two files/parts for par 1 to open : one for scrapping and the other to make some statistics.
+
+two files for part 3
+
